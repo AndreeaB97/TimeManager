@@ -57,11 +57,12 @@ Folderul cu fișierele componentelor interfețelor pentru bara de navigare
  * https://developer.android.com/studio/install
   ### Instalare Expo Go
   Aplicație pentru rularea aplicație pe dispozitivul mobil real.
-  * https://expo.dev/client?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=Cj0KCQjw4s-kBhDqARIsAN-ipH1oO60RQ4nGd_MTQQ8U3LB_ef7ZNtECy0W9KXN5hCQ8cLqyfE9hcA8aAt8hEALw_wcB
+* https://expo.dev/client?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=Cj0KCQjw4s-kBhDqARIsAN-ipH1oO60RQ4nGd_MTQQ8U3LB_ef7ZNtECy0W9KXN5hCQ8cLqyfE9hcA8aAt8hEALw_wcB
 ## Rularea aplicației pe dispozitiv virtual/real
 1. Deschideți proiectul în Visual Studio Code
-2. Deschideți terminalul din VS Code
-3. Deschideți emulatorul Android Studio sau aplicația Expo Go
-4. În terminal rulați comanda:
+2. Instalați dependențele
+4. Deschideți emulatorul Android Studio sau aplicația Expo Go
+3. Deschideți terminalul din VS Code
+5. În terminal rulați comanda:
  * npx expo start
 
