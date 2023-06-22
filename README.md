@@ -53,9 +53,9 @@ Folderul cu fișierele componentelor interfețelor pentru bara de navigare
 * npm i react-native-paper
 * npm i react-native-svg
 * npm i react-native-uuid
-  ### Instalare emulator
- * https://developer.android.com/studio/install
-  ### Instalare Expo Go
+### Instalare emulator
+* https://developer.android.com/studio/install
+### Instalare Expo Go
   Aplicație pentru rularea aplicație pe dispozitivul mobil real.
 * https://expo.dev/client?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=Cj0KCQjw4s-kBhDqARIsAN-ipH1oO60RQ4nGd_MTQQ8U3LB_ef7ZNtECy0W9KXN5hCQ8cLqyfE9hcA8aAt8hEALw_wcB
 ## Rularea aplicației pe dispozitiv virtual/real
