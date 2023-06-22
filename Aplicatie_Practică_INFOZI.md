@@ -1,7 +1,5 @@
 # Time Manager 
 Aplicație mobilă de management a activităților în React Native
-## Adresa repository-ului
-* https://github.com/AndreeaB97/TimeManager/tree/master
 ## Descrierea livrabilelor proiectului
 ### App.js 
 Fișierul principal al aplicației
