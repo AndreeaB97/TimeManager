@@ -7,7 +7,7 @@ App.js
 Fișierul principal al aplicației
 
 components
-folderul cu fișierele componentelor din  proiect
+folderul cu fișierele componentelor din  proiec
     CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
     ChartTasks.js - componenta pentru graficul din AddScreen.js
     CheckboxAddListInput.js - componenta pentru sarcinile unei activități în AddScreen.js
