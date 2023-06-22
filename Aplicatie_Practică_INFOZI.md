@@ -8,6 +8,7 @@ Fișierul principal al aplicației
 ### components
 Folderul cu fișierele componentelor din  proiec
    * CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
+     _
    * ChartTasks.js - componenta pentru graficul din AddScreen.js
    * CheckboxAddListInput.js - componenta pentru sarcinile unei activități în AddScreen.js
    * CheckboxListInput.js - componenta pentru sarcinile unei activități în Accordion.js
