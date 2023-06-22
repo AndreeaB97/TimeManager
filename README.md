@@ -34,12 +34,34 @@ Folderul cu fișierele componentelor interfețelor pentru bara de navigare
    * TasksScreens.js - componenta pentru afișarea activităților din data selectată
 ## Pașii de compilare a aplicației
 ### Instalarea dependențelor
-* Instalare Node.js
-  npm install -g npm
-* Instalare React
-  npm i react
-* Instalare React Native
-  npm i react-native
-* Instalare Expo
-   npm i expo
-* Instalare
+* npm install -g npm
+* npm i react
+* npm i react-native
+* npm i expo
+* npm i @react-native-async-storage/async-storage
+* npm i @react-native-community/datetimepicker
+* npm i @react-navigation/bottom-tabs
+* npm i @react-navigation/native
+* npm i expo-device
+* npm i expo-notifications
+* npm i intl
+* npm i react-native-animatable
+* npm i react-native-chart-kit
+* npm i react-native-dropdown-picker
+* npm i react-native-elements
+* npm i react-native-gesture-handler
+* npm i react-native-paper
+* npm i react-native-svg
+* npm i react-native-uuid
+  ### Instalare emulator
+ * https://developer.android.com/studio/install
+  ### Instalare Expo Go
+  Aplicație pentru rularea aplicație pe dispozitivul mobil real.
+  * https://expo.dev/client?utm_source=google&utm_medium=cpc&utm_content=performancemax&gclid=Cj0KCQjw4s-kBhDqARIsAN-ipH1oO60RQ4nGd_MTQQ8U3LB_ef7ZNtECy0W9KXN5hCQ8cLqyfE9hcA8aAt8hEALw_wcB
+## Rularea aplicației pe dispozitiv virtual/real
+1. Deschideți proiectul în Visual Studio Code
+2. Deschideți terminalul din VS Code
+3. Deschideți emulatorul Android Studio sau aplicația Expo Go
+4. În terminal rulați comanda:
+ * npx expo start
+
