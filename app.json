@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Time Manager",
+    "slug": "TimeManager",
+    "description": "An application that helps the user to keep track of the tasks he wants to do.",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/business-time.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#4B7A85"
+    },
+    "notification": {
+      "icon": "./assets/business-time.png",
+      "color": "#4B7A85"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/business-time.png",
+        "backgroundColor": "#4B7A85"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
