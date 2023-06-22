@@ -1,11 +1,8 @@
-# TimeManager
-React Native mobile application for activity management
-
+# Time Manager 
+Aplicație mobilă de management a activităților în React Native
 ## Descrierea livrabilelor proiectului
-
 ### App.js 
 Fișierul principal al aplicației
-
 ### components
 folderul cu fișierele componentelor din  proiec
    * CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
@@ -18,7 +15,6 @@ folderul cu fișierele componentelor din  proiec
    * SetPriority.js - componenta pentru setarea priorități
    * SetReminder.js - componenta pentru setare memento
    * SetRepetition.js - componeneta pentru setarea repetiției
-    
 ### navigation 
 folder cu fișierele componentelor din interfețe
    * Accordion.js - componenta pentru activitățile din TasksScreen.js
@@ -27,7 +23,6 @@ folder cu fișierele componentelor din interfețe
    * tabs.js - componenta pentru bara de navigare
    * TasksHeader.js - componenta pentru selectarea datei din TasksScreen.js
    * tasksModal.js - componenta pentru mesajul la adăugarea activități
-    
 ### screens
 folderul cu fișierele componentelor interfețelor pentru bara de navigare
    * AddScreen.js - componenta pentru adăugarea activităților
