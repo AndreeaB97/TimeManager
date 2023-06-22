@@ -6,9 +6,8 @@ Aplicație mobilă de management a activităților în React Native
 ### App.js 
 Fișierul principal al aplicației
 ### components
-Folderul cu fișierele componentelor din  proiec
-   * CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
-     _
+Folderul cu fișierele componentelor din  proiect
+   * _CategoryDropDown.js_ - componenta pentru selectarea categoriei în AddScreen.js
    * ChartTasks.js - componenta pentru graficul din AddScreen.js
    * CheckboxAddListInput.js - componenta pentru sarcinile unei activități în AddScreen.js
    * CheckboxListInput.js - componenta pentru sarcinile unei activități în Accordion.js
