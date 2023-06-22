@@ -3,10 +3,10 @@ React Native mobile application for activity management
 
 Descrierea livrabilelor proiectului
 
-#App.js 
+# App.js 
 Fișierul principal al aplicației
 
-#components
+# components
 folderul cu fișierele componentelor din  proiec
     CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
     ChartTasks.js - componenta pentru graficul din AddScreen.js
@@ -19,7 +19,7 @@ folderul cu fișierele componentelor din  proiec
     SetReminder.js - componenta pentru setare memento
     SetRepetition.js - componeneta pentru setarea repetiției
     
-#navigation 
+# navigation 
 folder cu fișierele componentelor din interfețe
     Accordion.js - componenta pentru activitățile din TasksScreen.js
     AccodionAll.js - componenta pentru activitățile din SearchScreen.js
@@ -28,7 +28,7 @@ folder cu fișierele componentelor din interfețe
     TasksHeader.js - componenta pentru selectarea datei din TasksScreen.js
     tasksModal.js - componenta pentru mesajul la adăugarea activități
     
-#screens
+# screens
 folderul cu fișierele componentelor interfețelor pentru bara de navigare
     AddScreen.js - componenta pentru adăugarea activităților
     ListsScreen.js - componenta pentru listarea activităților pe categori și căutarea după categorie
