@@ -4,7 +4,7 @@ Aplicație mobilă de management a activităților în React Native
 ### App.js 
 Fișierul principal al aplicației
 ### components
-folderul cu fișierele componentelor din  proiec
+Folderul cu fișierele componentelor din  proiec
    * CategoryDropDown.js - componenta pentru selectarea categoriei în AddScreen.js
    * ChartTasks.js - componenta pentru graficul din AddScreen.js
    * CheckboxAddListInput.js - componenta pentru sarcinile unei activități în AddScreen.js
@@ -16,7 +16,7 @@ folderul cu fișierele componentelor din  proiec
    * SetReminder.js - componenta pentru setare memento
    * SetRepetition.js - componeneta pentru setarea repetiției
 ### navigation 
-folder cu fișierele componentelor din interfețe
+Folder cu fișierele componentelor din interfețe
    * Accordion.js - componenta pentru activitățile din TasksScreen.js
    * AccodionAll.js - componenta pentru activitățile din SearchScreen.js
    * AccordionYesterday.js - componenta pentru activitățile trecute/inactive din TasksScreen.s
@@ -24,7 +24,7 @@ folder cu fișierele componentelor din interfețe
    * TasksHeader.js - componenta pentru selectarea datei din TasksScreen.js
    * tasksModal.js - componenta pentru mesajul la adăugarea activități
 ### screens
-folderul cu fișierele componentelor interfețelor pentru bara de navigare
+Folderul cu fișierele componentelor interfețelor pentru bara de navigare
    * AddScreen.js - componenta pentru adăugarea activităților
    * ListsScreen.js - componenta pentru listarea activităților pe categori și căutarea după categorie
    * NotificationTime.js - fișierul cu funcția pentru setarea momentului de notificare
@@ -32,3 +32,14 @@ folderul cu fișierele componentelor interfețelor pentru bara de navigare
    * StatisticsScreen.js - componenta pentru interfața cu statistici/grafice
    * styleScreens.js - fișierul cu codul CSS pentru stilare
    * TasksScreens.js - componenta pentru afișarea activităților din data selectată
+## Pașii de compilare a aplicației
+### Instalarea dependențelor
+* Instalare Node.js
+  npm install -g npm
+* Instalare React
+  npm i react
+* Instalare React Native
+  npm i react-native
+* Instalare Expo
+   npm i expo
+* Instalare
