@@ -65,4 +65,8 @@ Folderul cu fișierele componentelor interfețelor pentru bara de navigare
 3. Deschideți terminalul din VS Code
 5. În terminal rulați comanda:
  * npx expo start
-
+## Accesarea aplicației pe dispozitiv
+1. Instalați Expo Go pe dispozitiv
+2. Accesați link-ul:
+ * https://expo.dev/@andre97b/TimeManager
+3. Scanați codul QR cu aplicația Expo Go sau accesați codul
